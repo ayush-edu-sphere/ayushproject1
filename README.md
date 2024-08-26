@@ -1,2 +1,2 @@
-# ayushproject1
-this project is created by Ayush
+# Ayush Project 1
+this project is created by Ayush.
